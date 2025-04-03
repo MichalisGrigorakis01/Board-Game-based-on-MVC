@@ -1,0 +1,1 @@
+In order to run the game you need to open the Main package and run the class main.
